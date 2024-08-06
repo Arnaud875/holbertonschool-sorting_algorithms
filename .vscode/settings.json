@@ -1,0 +1,8 @@
+{
+    "editor.defaultFormatter": "ms-vscode.cpptools",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "files.associations": {
+        "sort.h": "c"
+    }
+}
